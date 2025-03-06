@@ -85,9 +85,20 @@ The **data analysis process** includes:
 ✅ Hands-on experience with **Microsoft SQL Server & AWS RDS**  
 
 ---
+## 📊 Key Features & Dashboards
+This project includes **interactive Tableau dashboards** for data-driven insights.
+
+### 1️⃣ Accounts Receivables Dashboard
+- Tracks **customer payments, overdue invoices, and outstanding amounts**.
+- Helps in **identifying late payments and improving cash collection strategies**.
+
+### 2️⃣ Accounts Payables Dashboard
+- Analyzes **supplier payments, outstanding liabilities, and late payment fees**.
+- Helps in **optimizing payables and avoiding late payment penalties**.
 
 ## 📚 References
 For a detailed breakdown, refer to the **Solution Methodology** document in this repository.
+
 
 📌 **Author:** *Lakshmipathiraju Pericharla*  
 📆 **Last Updated:** *March 2025*

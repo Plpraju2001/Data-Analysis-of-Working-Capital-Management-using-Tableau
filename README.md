@@ -19,6 +19,10 @@ By analyzing **Accounts Receivables and Payables**, this project aims to:
 - **Customer Name** - Name of the customer
 - **Payment Terms** - Payment agreement conditions
 - **Credit Limit** - Maximum credit extended
+- 
+![Customer Data]("C:\Users\peric\Pictures\Screenshots\Screenshot (76).png")
+
+---
 
 ### 2️⃣ **Receivables Data**
 - **Customer ID** - Unique identifier for each customer
